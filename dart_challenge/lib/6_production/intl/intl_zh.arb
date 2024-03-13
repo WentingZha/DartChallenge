@@ -1,0 +1,18 @@
+{
+  "@@locale": "zh",
+  "@@last_modified": "2024-03-08T14:46:27.511553",
+  "name": "查雯婷",
+  "@name": {
+    "description": "本地化翻译",
+    "type": "text",
+    "placeholders": {}
+  },
+  "greet": "我是 {name}!",
+  "@greet": {
+    "description": "Greet the user as they first open the application",
+    "type": "text",
+    "placeholders": {
+      "name": {}
+    }
+  }
+}

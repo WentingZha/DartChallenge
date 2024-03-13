@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "@@last_modified": "2024-03-08T14:46:27.511553",
+  "name": "WentingZha",
+  "@name": {
+    "description": "localizations",
+    "type": "text",
+    "placeholders": {}
+  },
+  "greet": "I am {name}!",
+  "@greet": {
+    "description": "Greet the user as they first open the application",
+    "type": "text",
+    "placeholders": {
+      "name": {}
+    }
+  }
+}
